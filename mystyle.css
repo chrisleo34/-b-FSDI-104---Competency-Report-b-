@@ -1,0 +1,64 @@
+body{
+    font-family: 'Arimo', sans-serif;
+
+    font-family: 'Lato', sans-serif;
+}
+
+img{
+    width: 100%;
+   
+}
+
+.zone{
+    width: 15rem;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+p{
+    font-size: 1.6rem;
+    color: black
+}
+
+.btn{
+    background-color: #960505;
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    background-color: #960505;
+    color: white;
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+    font-size: 4rem;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+h2{
+    font-weight: 900;
+    letter-spacing: 3px;
+    
+}
+
+.console{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    height: 15rem;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
